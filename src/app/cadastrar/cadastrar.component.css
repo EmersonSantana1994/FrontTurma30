@@ -1,0 +1,10 @@
+#img-bg{
+
+    background-image: url('../../assets/img/blog-pessoal-1024x661.jpgcadastr.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

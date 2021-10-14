@@ -1,0 +1,27 @@
+ul.social-network{
+
+    list-style: none;
+    padding: 0;
+}
+
+.fa{
+
+    font-size: 35pt;
+    color: white;
+    padding: 10px;
+}
+
+.fa-instagram:hover {
+    color: violet;
+
+}
+
+.cor1 {
+
+    background-color: rgb(29, 53, 160);
+}
+
+.cor2 {
+
+    background-color: rgb(9, 25, 95);
+}
