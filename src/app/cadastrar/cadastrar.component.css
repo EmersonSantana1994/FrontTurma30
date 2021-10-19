@@ -8,3 +8,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.fundo{
+    background-image: linear-gradient(to right top, #0012ff, #005aff, #007cff, #0096f7, #00abe0, #55b7df, #7cc3df, #9ecee0, #bcd8ec, #b1cbeb, #91a3f3, #456ae0);
+}

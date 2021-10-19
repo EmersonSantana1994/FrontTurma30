@@ -28,6 +28,7 @@ export class InicioComponent implements OnInit {
 
   user: User = new User()
   idUser = environment.id
+  foto = environment.foto
 
   key = 'date'
   reverse = true
